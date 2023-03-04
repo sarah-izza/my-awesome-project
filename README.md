@@ -1,6 +1,10 @@
 This awesome project is created to experiment git notions like clone, push and pull
 
 
-** achievements 
+* [Achievements]
 
-J'ai réussi à faire clone, pull et je m'apprête à faire push.
+J'ai rÃ©ussi Ã  faire clone, pull et je m'apprÃªte Ã  faire push.
+
+* [New section] 
+
+This is to play with Github  
